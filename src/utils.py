@@ -45,7 +45,7 @@ def dominates(o1, o2):
 def standardize_objectives(row):
     """
     Convert a raw metrics row {SPD, DI, EOD, PED, Acc} into a minimization-
-    oriented objective vector, following the paper's Section 4.1:
+    oriented objective vector:
       - SPD, EOD, PED -> abs value (converge to 0)
       - DI -> 1/DI if DI < 1, else DI itself (converge to 1 from both sides)
       - Acc -> negated (since higher accuracy is better, minimize -Acc)
