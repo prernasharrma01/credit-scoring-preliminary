@@ -1,0 +1,12 @@
+{
+  "non_dominated": [
+    "NONE",
+    "DIR+AL",
+    "Re+EGR+ROC",
+    "Re+EGR+EO",
+    "Re+AL+ROC",
+    "Re+AL+EO",
+    "DIR+AL+ROC",
+    "DIR+AL+EO"
+  ]
+}
