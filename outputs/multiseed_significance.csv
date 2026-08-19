@@ -1,0 +1,13 @@
+,n_paired_seeds,SPD_p,SPD_sig,SPD_improved,DI_p,DI_sig,DI_improved,EOD_p,EOD_sig,EOD_improved,PED_p,PED_sig,PED_improved,Acc_p,Acc_sig,Acc_improved
+Re+EGR,10,0.0,**,True,0.0,**,True,0.0,**,True,0.0003,**,True,0.1914,,True
+Re+AL,10,0.0035,**,True,0.0048,**,True,0.0032,**,True,0.0059,**,False,0.0565,,True
+DIR+EGR,10,0.0,**,True,0.0,**,True,0.0,**,True,0.0001,**,True,0.2699,,False
+DIR+AL,10,0.0063,**,True,0.0097,**,True,0.0026,**,True,0.0218,*,False,0.048,*,True
+Re+EGR+ROC,10,0.0443,*,True,0.0596,,True,0.0212,*,True,0.091,,True,0.6821,,False
+Re+EGR+EO,10,0.0,**,True,,,True,0.0,**,True,0.0989,,True,0.0002,**,True
+Re+AL+ROC,10,0.0017,**,True,0.0113,*,True,0.0017,**,True,0.0018,**,False,0.126,,True
+Re+AL+EO,10,0.0,**,True,0.0,**,True,0.0,**,True,0.0025,**,True,0.0,**,True
+DIR+EGR+ROC,10,0.0014,**,True,0.0014,**,True,0.0031,**,True,0.0009,**,True,0.6537,,False
+DIR+EGR+EO,10,0.0,**,True,0.0,**,True,0.0,**,True,0.0083,**,True,0.0087,**,True
+DIR+AL+ROC,10,0.0028,**,True,0.0106,*,True,0.0073,**,True,0.0003,**,False,0.106,,True
+DIR+AL+EO,10,0.0001,**,True,0.0004,**,True,0.0046,**,True,0.0111,*,True,0.0116,*,True
