@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .DS_Store
 outputs/full_sweep_pickles/
+outputs/multiseed_results/
